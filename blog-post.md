@@ -1,4 +1,4 @@
 ---
-title: "my-blog-post"
+title: "my blog"
 date: 2022-10-13
 ---
